@@ -21,7 +21,7 @@
 
 --- 
 
-### I'm starx, aka a1x#0002
+### I'm starx
 
 - I’m interested in girls
 - I’m currently learning sex
@@ -36,7 +36,7 @@
 
 ---
 
-### GitHub Stats :zap: 
+### GitHub Stats
 
 <img align="left" alt="starx's stats" src="https://github-readme-stats-liart-six.vercel.app/api?username=starxcpu&show_icons=true&hide_border=true" />
 <br />
