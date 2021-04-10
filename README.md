@@ -30,14 +30,15 @@
 
 ---
 
+### Spotify Recently Played
+
+![star's spotify](https://spotify-recently-played-readme.vercel.app/api?user=5yl1iwma72qfhnxme0ulybqgo)
+
+---
+
 ### GitHub Stats :zap: 
 
 <img align="left" alt="starx's stats" src="https://github-readme-stats-liart-six.vercel.app/api?username=starxcpu&show_icons=true&hide_border=true" />
 <br />
 
 ---
-<!--START_SPOTIFY:activity-->
-### Spotify Recently Played
-
-![star's spotify](https://spotify-recently-played-readme.vercel.app/api?user=5yl1iwma72qfhnxme0ulybqgo)
-<!--END_SPOTIFY:activity-->
