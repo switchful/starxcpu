@@ -1,4 +1,4 @@
-[![Banner](banner.gif)](https://discord.gg/8jJbGHUFwH)
+![Banner](banner.gif =250x250)
 
 --- 
 
