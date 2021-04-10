@@ -33,8 +33,10 @@
 ### GitHub Stats :zap: 
 
 <img align="left" alt="starx's stats" src="https://github-readme-stats-liart-six.vercel.app/api?username=starxcpu&show_icons=true&hide_border=true" />
+<br />
 
+---
 
 ### Spotify Recently Played
 
-<img align="right" alt="starx's spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=5yl1iwma72qfhnxme0ulybqgo)" />
+![star's spotify](https://spotify-recently-played-readme.vercel.app/api?user=5yl1iwma72qfhnxme0ulybqgo)
