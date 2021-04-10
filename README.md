@@ -12,13 +12,13 @@
 [<img align="left" alt="starx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="starx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/starxcpu
-[youtube]: https://youtube.com/starxa1
-[instagram]: https://instagram.com/starxa1
-
 --- 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-liart-six.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-liart-six.vercel.app/api?username=starxcpu&show_icons=true&hide_border=true" />
+  
+[twitter]: https://twitter.com/starxcpu
+[youtube]: https://youtube.com/starxa1
+[instagram]: https://instagram.com/starxa1
