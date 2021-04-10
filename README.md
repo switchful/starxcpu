@@ -22,7 +22,6 @@
 --- 
 
 <p align="center">
-  
 ### I'm starx, aka a1x#0002
 
 - Hi, I’m Starx
@@ -30,7 +29,6 @@
 - I’m currently learning sex
 - I’m looking to collaborate on terrorist attacks
 - You can reach me on discord : a1x#0002
-
 </p>
 
 --- 
