@@ -4,7 +4,7 @@
 
 ### I'm starx, aka a1x#0002
 
-- Hi, I’m @starxcpu
+- Hi, I’m Starx
 - I’m interested in girls
 - I’m currently learning sex
 - I’m looking to collaborate on terrorist attacks
