@@ -28,8 +28,6 @@
 - I’m looking to collaborate on terrorist attacks
 - You can reach me on discord : a1x#0002
 
----
-
 ### GitHub Stats :zap: 
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-liart-six.vercel.app/api?username=starxcpu&show_icons=true&hide_border=true" />
