@@ -1,4 +1,23 @@
-<img src="banner.gif" width="500">
+
+------
+<p align="center">  
+  <img src="banner.gif" width="500">
+</p>
+<p align="center">
+    a1x#0002
+<p align="center">
+</p>
+<p align="center">
+<a href="https://discord.gg/8jJbGHUFwH">discord</a>
+    ・
+    <a href="https://www.instagram.com/starxa1/">Instagram</a>
+    ・
+    <a href="https://www.youtube.com/starxa1">YouTube</a>
+    ・
+    <a href="https://www.twitter.com/starxcpu">Twitter</a>
+</p>
+
+<p align="center">  
 
 --- 
 
