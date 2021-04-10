@@ -1,4 +1,4 @@
-![Banner](banner.gif =250x250)
+<img src="banner.gif" width="48">
 
 --- 
 
