@@ -32,10 +32,9 @@
 
 ### GitHub Stats :zap: 
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-liart-six.vercel.app/api?username=starxcpu&show_icons=true&hide_border=true" />
+<img align="left" alt="starx's stats" src="https://github-readme-stats-liart-six.vercel.app/api?username=starxcpu&show_icons=true&hide_border=true" />
 
----
 
 ### Spotify Recently Played
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5yl1iwma72qfhnxme0ulybqgo)
+<img align="right" alt="starx's spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=5yl1iwma72qfhnxme0ulybqgo)" />
