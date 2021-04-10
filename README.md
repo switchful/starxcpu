@@ -36,7 +36,8 @@
 <br />
 
 ---
-
+<!--START_SPOTIFY:activity-->
 ### Spotify Recently Played
 
 ![star's spotify](https://spotify-recently-played-readme.vercel.app/api?user=5yl1iwma72qfhnxme0ulybqgo)
+<!--END_SPOTIFY:activity-->
