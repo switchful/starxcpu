@@ -12,3 +12,6 @@
 [<img align="left" alt="starxcpu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="starxa1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/starxa1)
+[![YouTube](link to image on GH)](link to your URL)
+[![Twitter](link to image on GH)](link to your URL)
