@@ -8,13 +8,13 @@
 <p align="center">
 </p>
 <p align="center">
-<a href="https://discord.gg/8jJbGHUFwH">discord</a>
+<a href="https://discord.gg/8jJbGHUFwH">Discord</a>
     ・
-    <a href="https://www.instagram.com/starxa1/">Instagram</a>
+    <a href="https://www.twitter.com/starxcpu">Twitter</a>
     ・
     <a href="https://www.youtube.com/starxa1">YouTube</a>
     ・
-    <a href="https://www.twitter.com/starxcpu">Twitter</a>
+    <a href="https://www.instagram.com/starxa1/">Instagram</a>
 </p>
 
 <p align="center">  
