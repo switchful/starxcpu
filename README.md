@@ -10,8 +10,9 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-readme-gamma-murex.vercel.app/api/spotify-playing" alt="Spotify Playing" width="400" />](https://open.spotify.com/user/5yl1iwma72qfhnxme0ulybqgo)
+[<img src="https://novatorem-starxcpu.vercel.app/api/spotify-playing" alt="Spotify Playing" width="400" />](https://open.spotify.com/user/5yl1iwma72qfhnxme0ulybqgo)
 
+novatorem-starxcpu.vercel.app
 --- 
 
 ### Follow my socials
