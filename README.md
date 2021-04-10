@@ -29,10 +29,9 @@
 - You can reach me on discord : a1x#0002
 
 ---
+### Spotify Playing 🎧
 
-### Spotify Recently Played
-
-![star's spotify](https://spotify-recently-played-readme.vercel.app/api?user=5yl1iwma72qfhnxme0ulybqgo)
+[<img src="https://natemoo-re-2zezx2od2-starxcpu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/5yl1iwma72qfhnxme0ulybqgo)
 
 ---
 
