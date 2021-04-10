@@ -1,4 +1,4 @@
-[![Banner](https://media.discordapp.net/attachments/756845215280791627/762006079596920842/213.gif)](https://discord.gg/8jJbGHUFwH)
+[![Banner](banner.gif)](https://discord.gg/8jJbGHUFwH)
 
 --- 
 
