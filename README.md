@@ -1,3 +1,7 @@
+[![Banner](https://media.discordapp.net/attachments/756845215280791627/762006079596920842/213.gif)](https://discord.gg/8jJbGHUFwH)
+
+--- 
+
 ### I'm starx, aka a1x#0002
 
 - Hi, I’m @starxcpu
@@ -5,12 +9,6 @@
 - I’m currently learning sex
 - I’m looking to collaborate on terrorist attacks
 - You can reach me on discord : a1x#0002
-
----
-
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-starxcpu.vercel.app/api/spotify-playing" alt="Spotify Playing" width="400" />](https://open.spotify.com/user/5yl1iwma72qfhnxme0ulybqgo)
 
 --- 
 
