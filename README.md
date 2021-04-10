@@ -40,5 +40,3 @@
 
 <img align="left" alt="starx's stats" src="https://github-readme-stats-liart-six.vercel.app/api?username=starxcpu&show_icons=true&hide_border=true" />
 <br />
-
----
