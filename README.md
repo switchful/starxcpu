@@ -21,12 +21,12 @@
 
 --- 
 
-### I'm starx
+### I'm a1x
 
-- I’m interested in girls
+- I’m interested in sel
 - I’m currently learning sex
-- I’m looking to collaborate on terrorist attacks
-- You can reach me on discord : a1x#0002
+- I’m looking to collaborate on multiple terrorist attacks
+- You can reach me on discord : a1x#6115
 
 ---
 
